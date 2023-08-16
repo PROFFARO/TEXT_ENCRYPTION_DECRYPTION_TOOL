@@ -42,14 +42,6 @@
 - 9. Encryption the text using Blowfish
 
 
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#da894b](https://via.placeholder.com/10/da894b?text=+) #da894b |
-| Secondary Color | ![#3575dd](https://via.placeholder.com/10/3575dd?text=+) #3575dd |
-| Accent Color | ![#3bccd4](https://via.placeholder.com/10/3bccd4?text=+) #3bccd4 |
-| Text Color | ![#d74040](https://via.placeholder.com/10/d74040?text=+) #d74040 |
-
 ## :toolbox: Getting Started
 
 ### :bangbang: Prerequisites
