@@ -15,19 +15,19 @@ Text Encryption and Decryption is the process of converting the Plain text to th
 
 - Encryption from File--->>
 
-![App Screenshot](https://snipboard.io/4ihomH.jpg)
+![App Screenshot](https://snipboard.io/GDWAlY.jpg)
 
 Encryption from Text or Sentences--->>
 
-![App Screenshot](https://snipboard.io/cKMVsJ.jpg)
+![App Screenshot](https://snipboard.io/U5Pvyf.jpg)
 
-![App Screenshot](https://snipboard.io/gxeZz2.jpg)
+![App Screenshot](https://snipboard.io/9yrD8C.jpg)
 
-![App Screanshot](https://snipboard.io/6XPlRw.jpg)
+![App Screanshot](https://snipboard.io/Je8BZx.jpg)
 
-![App Screanshot](https://snipboard.io/ykhcKX.jpg)
+![App Screanshot](https://snipboard.io/UcsPiH.jpg)
 
-![App Screanshot](https://snipboard.io/brHuLF.jpg)
+![App Screanshot](https://snipboard.io/V9ZCWf.jpg)
 
 
 ## 📒 Table of contents
