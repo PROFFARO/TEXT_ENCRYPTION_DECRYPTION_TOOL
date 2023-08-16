@@ -1,10 +1,7 @@
 
 <h1 align="center" id="title"><b>Text Encryption and Decryption<b></h1>
 
-<p align="center"><img src="[https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/assets/115238557/b0b75f6f-c2d1-431b-b4f5-a4d0aad7abfb](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fmessage-transfer-2931453&psig=AOvVaw19r1yiCXJqzApVB_mCJ1zx&ust=1692293676209000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDGvK3b4YADFQAAAAAdAAAAABAE)
-" alt="project-image"></p>
-
-<p>Text Encryption and Decryption is the process of converting the Plain text to the Cipher text which is unreadable normally for a human being. generally this technique used for end to end Encryption when any secure message transferring will happens. So, to ensure the security and for the concern of privacy this technique used. Here this tool will help you to encrypt your normal text into a random join of different literals [cipher text]. It provides different types of features and encryption technique by so that the user will customise him/herself accordingly.</p>
+<p><b>Text Encryption and Decryption is the process of converting the Plain text to the Cipher text which is unreadable normally for a human being. generally this technique used for end to end Encryption when any secure message transferring will happens. So, to ensure the security and for the concern of privacy this technique used. Here this tool will help you to encrypt your normal text into a random join of different literals [cipher text]. It provides different types of features and encryption technique by so that the user will customise him/herself accordingly.<b></p>
 
 <h4> <span> · </span> <a href="https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/issues"> Request Feature </a> </h4>
 
