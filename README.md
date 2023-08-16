@@ -82,7 +82,10 @@ pip install -r requirements.txt
 
 Run the tool using the command---->>
 ```bash
-python main.py
+python Text_Encryption_from_FILE.py
+```
+```bash
+python Text_Encryption_Decryption.py
 ```
 
 
