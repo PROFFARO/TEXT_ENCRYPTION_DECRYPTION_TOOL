@@ -1,5 +1,8 @@
 
-<h1>Text Encryption and Decryption</h1>
+<h1 align="center" id="title"><b>Text Encryption and Decryption<b></h1>
+
+<p align="center"><img src="https://nanonets.com/blog/content/images/2023/04/Screenshot-2023-04-17-at-4.50.18-PM.png" alt="project-image"></p>
+
 <p>Text Encryption and Decryption is the process of converting the Plain text to the Cipher text which is unreadable normally for a human being. generally this technique used for end to end Encryption when any secure message transferring will happens. So, to ensure the security and for the concern of privacy this technique used. Here this tool will help you to encrypt your normal text into a random join of different literals [cipher text]. It provides different types of features and encryption technique by so that the user will customise him/herself accordingly.</p>
 
 <h4> <span> · </span> <a href="https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/issues"> Request Feature </a> </h4>
