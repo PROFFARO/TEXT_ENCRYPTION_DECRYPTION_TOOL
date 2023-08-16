@@ -1,7 +1,3 @@
-<div align='center'>
-
-<img src="https://imgs.search.brave.com/R8fGuRhU5H5ciEeoEoB7sAti3DQCR70iZuGUmG5Brjs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cmVkaGF0LmNvbS9z/eXNhZG1pbi9zaXRl/cy9kZWZhdWx0L2Zp/bGVzL3N0eWxlcy9m/dWxsL3B1YmxpYy8y/MDIxLTA2L2N5YmVy/LXNlY3VyaXR5Lmpw/Zz9pdG9rPThRaExf/eU5w
-" alt="logo" width=370 height=200 />
 
 <h1>Text Encryption and Decryption</h1>
 <p>Text Encryption and Decryption is the process of converting the Plain text to the Cipher text which is unreadable normally for a human being. generally this technique used for end to end Encryption when any secure message transferring will happens. So, to ensure the security and for the concern of privacy this technique used. Here this tool will help you to encrypt your normal text into a random join of different literals [cipher text]. It provides different types of features and encryption technique by so that the user will customise him/herself accordingly.</p>
