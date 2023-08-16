@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="[image](https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/assets/115238557/7cd91eb3-96ce-434a-8bbb-5630ce26d459)
+<img src="https://imgs.search.brave.com/R8fGuRhU5H5ciEeoEoB7sAti3DQCR70iZuGUmG5Brjs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cmVkaGF0LmNvbS9z/eXNhZG1pbi9zaXRl/cy9kZWZhdWx0L2Zp/bGVzL3N0eWxlcy9m/dWxsL3B1YmxpYy8y/MDIxLTA2L2N5YmVy/LXNlY3VyaXR5Lmpw/Zz9pdG9rPThRaExf/eU5w
 " alt="logo" width=370 height=200 />
 
 <h1>Text Encryption and Decryption</h1>
