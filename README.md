@@ -18,7 +18,8 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 220432.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="![image](https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/assets/115238557/9ecc880d-46fb-4ea2-9e63-a75b80a7ac72)
+" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src=""C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 215929.png"" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src=""C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 215714.png"" alt='image' width='800'/></a> </div>
 <div align="center"> <a href=""><img src=""C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 220056.png"" alt='image' width='800'/></a> </div>
