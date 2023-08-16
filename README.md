@@ -17,17 +17,6 @@
 
 ## :star2: About the Project
 
-### :camera: Screenshots
-<div align="center"> <a href=""><img src="![image](https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/assets/115238557/9ecc880d-46fb-4ea2-9e63-a75b80a7ac72)
-" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src=""C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 215929.png"" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src=""C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 215714.png"" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src=""C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 220056.png"" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src=""C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 220201.png"" alt='image' width='800'/></a> </div>
-<div align="center"> <a href=""><img src=""C:\Users\Dayab\OneDrive\Pictures\Screenshot 2023-08-16 220301.png"" alt='image' width='800'/></a> </div>
-
-
-
 ### :dart: Features
 - 1. Encryption the text using letter shuffle position of the string
 - 2. Encryption the text using the Cryptography Method
