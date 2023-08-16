@@ -1,3 +1,7 @@
+<div align='center'>
+
+<img src="[image](https://github.com/PROFFARO/TEXT_ENCRYPTION_DECRYPTION_TOOL/assets/115238557/7cd91eb3-96ce-434a-8bbb-5630ce26d459)
+" alt="logo" width=370 height=200 />
 
 <h1>Text Encryption and Decryption</h1>
 <p>Text Encryption and Decryption is the process of converting the Plain text to the Cipher text which is unreadable normally for a human being. generally this technique used for end to end Encryption when any secure message transferring will happens. So, to ensure the security and for the concern of privacy this technique used. Here this tool will help you to encrypt your normal text into a random join of different literals [cipher text]. It provides different types of features and encryption technique by so that the user will customise him/herself accordingly.</p>
